@@ -1,2 +1,2 @@
-# nnfs
-Neural Networks From Scratch
+# NNFS
+Basic Neural Networks coding practice using book "Neural Networks From Scratch in Python"
